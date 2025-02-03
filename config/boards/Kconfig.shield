@@ -1,2 +1,2 @@
-config SHIELD_COSMOS
-    def_bool $(shields_list_contains, cosmos)
+config SHIELD_CORNE
+    def_bool $(shields_list_contains, corne)

@@ -1,6 +1,6 @@
-if SHIELD_COSMOS
+if SHIELD_CORNE
 
 config ZMK_KEYBOARD_NAME
-    default "cosmos"
+    default "corne"
 
 endif
