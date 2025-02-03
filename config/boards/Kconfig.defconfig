@@ -1,0 +1,6 @@
+if SHIELD_COSMOS
+
+config ZMK_KEYBOARD_NAME
+    default "cosmos"
+
+endif
